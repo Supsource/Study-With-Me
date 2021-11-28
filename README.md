@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/Supsource/Study-With-Me/main/Screenshot%202021-11-28%20at%2012.01.21%20PM.png)
+
 # StudyWithMe
 
 30 Days of 30 JavaScript Project [Repository Link.](https://github.com/Supsource/30-Days-30-JavaScript-Project-Challenge)
